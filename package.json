@@ -1,0 +1,16 @@
+{
+  "name": "web3-toolkit",
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@dotenvx/dotenvx": "^1.14.0"
+  }
+}
