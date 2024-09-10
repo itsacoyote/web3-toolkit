@@ -13,7 +13,8 @@
     "simonsiefke.svg-preview",
     "streetsidesoftware.code-spell-checker",
     "vue.volar",
-    "yoavbls.pretty-ts-errors"
+    "yoavbls.pretty-ts-errors",
+    "antfu.vite"
   ],
   "unwantedRecommendations": ["vue.vscode-typescript-vue-plugin"]
 }
