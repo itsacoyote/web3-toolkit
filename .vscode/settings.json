@@ -20,5 +20,5 @@
     },
     "editor.tabCompletion": "onlySnippets"
   },
-  "cSpell.words": ["dotenvx"]
+  "cSpell.words": ["bunx", "dotenvx"]
 }
