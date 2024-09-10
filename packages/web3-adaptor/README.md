@@ -1,4 +1,4 @@
-# web3-adaptors
+# web3-adaptor
 
 To install dependencies:
 
