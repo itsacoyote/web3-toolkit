@@ -20,7 +20,7 @@
     },
     "editor.tabCompletion": "onlySnippets"
   },
-  "[javascript][typescript]": {
+  "[javascript][typescript][vue][javascriptreact][typescriptreact]": {
     "editor.defaultFormatter": null,
     "editor.formatOnSave": false,
     "editor.codeActionsOnSave": {
