@@ -12,7 +12,7 @@ Currently just using the `npm create vite@latest` where I can when setting up ne
 The `@eslint/config-inspector` is really helpful in visualizing the eslint configuration.
 
 ```sh
-bunx @eslint/config-inspector@latest
+pnpx @eslint/config-inspector@latest
 ```
 
 ## Bundle visualizer
@@ -22,5 +22,5 @@ bunx @eslint/config-inspector@latest
 To help visualize the bundles made by Vite, use `vite-bundle-visualizer`.
 
 ```sh
-bunx vite-bundle-visualizer
+pnpx vite-bundle-visualizer
 ```

@@ -1,0 +1,25 @@
+packages:
+  - "packages/*"
+  - "playground/*"
+
+catalogs:
+  typescript:
+    typescript: ^5.5.3
+  autoprefixer:
+    autoprefixer: ^10.4.20
+  vite:
+    vite: ^5.4.1
+    vite-plugin-dts: ^4.2.1
+    "@vitejs/plugin-vue": ^5.1.2
+    "@vitejs/plugin-react": ^4.3.1
+  tailwind:
+    tailwindcss: ^3.4.11
+    postcss: ^8.4.45
+  vue3:
+    vue: ^3.4.37
+    vue-tsc: ^2.0.29
+  react:
+    react: ^18.3.1
+    react-dom: ^18.3.1
+    "@types/react": ^18.3.3
+    "@types/react-dom": ^18.3.0

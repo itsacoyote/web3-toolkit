@@ -132,6 +132,7 @@ dist
 # package lockfiles
 package-lock.json
 yarn.lock
+bun.lockb
 
 # dotenvx
 .env.keys
