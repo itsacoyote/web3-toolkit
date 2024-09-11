@@ -2,6 +2,11 @@
 
 Collection of commands to help with development, debugging, etc.
 
+## Creating new projects
+
+Currently just using the `npm create vite@latest` where I can when setting up new projects in the
+/packages and /playground directories.
+
 ## ESLint
 
 The `@eslint/config-inspector` is really helpful in visualizing the eslint configuration.
