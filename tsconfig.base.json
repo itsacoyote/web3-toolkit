@@ -9,7 +9,7 @@
     "module": "ESNext",
     "moduleResolution": "Bundler",
     "moduleDetection": "force",
-    "allowJs": true,
+    "allowJs": false,
     "verbatimModuleSyntax": true,
     "noEmit": true,
     "sourceMap": true,

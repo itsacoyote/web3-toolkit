@@ -10,4 +10,4 @@ tmp
 temp
 .cache
 .nuxt
-
+pnpm-lock.yaml

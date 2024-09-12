@@ -31,5 +31,6 @@
       "source.fixAll.eslint": "explicit"
     }
   },
-  "cSpell.words": ["bunx", "dotenvx"]
+  "cSpell.words": ["bunx", "dotenvx"],
+  "vue.server.hybridMode": "auto"
 }
